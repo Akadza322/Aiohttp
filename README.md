@@ -4,6 +4,6 @@
 
 ## Задание 1
 
-Переписать сервис из [домашнего задания по Flask](https://github.com/netology-code/py-homeworks-web/blob/new/2.3-aiohttp/README.md) на aiohttp.
+Переписать сервис из [домашнего задания по Flask](https://github.com/Akadza322/Flask_test) на aiohttp.
 
 Результатом работы является API, написанный на aiohttp.
